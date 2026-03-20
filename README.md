@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Ян Сумароков
 
-<!--
-**Yanius27/Yanius27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я **Middle Frontend Developer**. Люблю создавать чистый и удобный UI.
 
-Here are some ideas to get you started:
+## 🛠 Навыки
+- HTML / CSS / JavaScript / TypeScript
+- React / Redux / Next.js / Vite
+- Git / GitHub / CI/CD
+- Тестирование (Jest / React Testing Library)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Проекты
+
+- [Only](https://github.com/Yanius27/only_task) – проект с интересным UX/UI и сложными анимациями.
+- [Mini Twitter](https://github.com/Yanius27/mini-twitter) – мини соц. сеть с классическим набором функций (создание аккаунта, авторизация, добавление постов и лайков чужим постам)
+- [To Do List](https://github.com/Yanius27/dnd) - симпатичный to-do-list с дополнительным функционалом канбан доски
+- [Model params editor](https://github.com/Yanius27/model-params-editor) – проект представляет собой форму для редактирования параметров любой модели и полностью основан на TypeScript.
+- [Books server](https://github.com/Yanius27/books-server) - тестовое задание представляющее собой простое express-приложение с базой данных
+
+## 📫 Контакты
+- Email: yansumarokov28@yandex.ru
+- Telegram: @unlucky_knight
