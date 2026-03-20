@@ -4,7 +4,7 @@
 
 ## 🛠 Навыки
 - HTML / CSS / JavaScript / TypeScript
-- React / Redux / Next.js / Vite
+- React / Redux Toolkit / Next.js / Vite
 - Git / GitHub / CI/CD
 - Тестирование (Jest / React Testing Library)
 
