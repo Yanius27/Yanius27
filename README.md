@@ -5,7 +5,7 @@
 ## 🛠 Навыки
 - HTML / CSS / JavaScript / TypeScript
 - React / Redux Toolkit / Next.js / Vite
-- Git / GitHub / CI/CD
+- Git / GitHub / GitLab / CI/CD
 - Тестирование (Jest / React Testing Library)
 
 ## 📂 Личные проекты
